@@ -1,0 +1,31 @@
+button{
+    background-color: blueviolet
+}
+
+.magreza-leve{
+    background-color: rgb(255, 108, 211);
+}
+
+.magreza-grave{
+    background-color: rgb(255, 0, 0);
+}
+.magreza-moderada{
+    background-color: rgb(155, 108, 211);
+}
+
+.saudavel{
+    background-color: rgb(155, 108, 1);
+}
+.sobrepeso{
+    background-color: rgb(19, 108, 21);
+}
+
+.obesidade1{
+    background-color: rgb(155, 208, 211);
+}
+.obesidade2{
+    background-color: rgb(5, 108, 211);
+}
+.obesidade{
+    background-color: rgb(159, 208, 21);
+}
